@@ -1,4 +1,4 @@
-# A Variation of an Inverted Index
+# A variation of an inverted index
 
 ##### MSc in Data Sciences and Business Analytics
 ##### ESSEC Business School - Ecole Centrale Paris
